@@ -1,3 +1,5 @@
+# this sets up up my relations and inserts data
+
 # import Libraries
 import psycopg2
 import os
