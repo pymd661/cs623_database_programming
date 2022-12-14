@@ -1,3 +1,5 @@
+# this code succesfully updates the name from p1 to pp1
+
 # import Libraries
 import psycopg2
 import os
