@@ -1,3 +1,5 @@
+# this creates the database
+
 # Import libraries
 import psycopg2
 import os
