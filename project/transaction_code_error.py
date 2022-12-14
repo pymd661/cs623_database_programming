@@ -1,3 +1,6 @@
+# this python code will result in an error since this does not drop the constraint
+
+
 # import Libraries
 import psycopg2
 import os
